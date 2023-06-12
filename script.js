@@ -30,3 +30,6 @@ function backtozero(){
     backtozeroNumber.textContent = 0
     count = 0
 }
+
+// Was thinking of adding morefeatures, but it would become clustered. 
+// BTW, today is 12 June 2023, 0938 hrs. 
