@@ -1,0 +1,111 @@
+body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ACB1D6;
+}
+
+.box-op{
+    height: 700px;
+    width: 500px;
+    background-color: #D8C4B6;
+    border-radius: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+
+.text-people{
+    font-size: 50px;
+    position: absolute;
+    display: flex;
+    margin: 0px;
+    margin-top: 15px;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+#count-display{
+    font-size: 80px;
+    position: absolute;
+    margin-top: 85px;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+#increment-button{
+    display: flex;
+    border: 0px;
+    margin-top: 200px;
+    height: 50px;
+    width: 400px;
+    border-radius: 15px;
+    display: flex;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+    background-color: rgb(76, 138, 76);
+}
+
+#decrement-button{
+    display: flex;
+    border: 0px;
+    margin-top: 280px;
+    height: 50px;
+    width: 400px;
+    border-radius: 15px;
+    display: flex;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+    background-color: rgb(201, 122, 122);
+}
+
+#back-to-zero{
+    display: flex;
+    border: 0px;
+    margin-top: 360px;
+    height: 50px;
+    width: 400px;
+    border-radius: 15px;
+    display: flex;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+    background-color: rgb(107, 107, 184);
+}
+
+#save-button{
+    display: flex;
+    border: 0px;
+    margin-top: 440px;
+    height: 50px;
+    width: 400px;
+    border-radius: 15px;
+    display: flex;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+#save-element{
+    width: 480px;
+    margin-top: 550px;
+    font-size: 30px;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+.text-in-box{
+    font-size: 20px;
+    display: flex;
+    position: absolute;
+    left: 50%; 
+    transform: translateX(-50%);
+    margin: 0px;
+    margin-top: 13px;
+}
