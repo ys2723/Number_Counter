@@ -10,16 +10,21 @@
   </head>
 
     <body>
-        <p>People Entered: </p>
+      <div class = "box-op">
+        <p class = "text-people"><nobr>People Entered: </nobr></p>
         <p id = "count-display"> 0 </p>
-        <button id = "increment-button" onclick = "increment()"><p>INCREMENT</p></button>
-        <button id = "decrement-button" onclick = "decrement()">DECREMENT</button>
-        <button id = "back-to-zero" onclick = "backtozero()">Back to ZERO</button>
-        <button id = "save-button" onclick = "save()">SAVE</button>
+        <button id = "increment-button" onclick = "increment()"><p class = "text-in-box">INCREMENT</p></button>
+        <button id = "decrement-button" onclick = "decrement()"><p class = "text-in-box">DECREMENT</p></button>
+        <button id = "back-to-zero" onclick = "backtozero()"><p class = "text-in-box">Back to ZERO</p></button>
+        <button id = "save-button" onclick = "save()"><p class = "text-in-box">SAVE</p></button>
         <p id ="save-element">Previous Entries: </p>
+      </div>  
     </body>
 
-<script src = "script.js">
-</script>
+<!-- I added the "text-in-box" class and made all the boxes inside the buttons of 'p' form
+so that I could change just the text without hurting the functionalities or styles of the button ids. 
+BTW today is 11 June 2023, 1732 hrs. I am sitting in Mavelikara, Kerala. Nice weather here.
+Read around 50 pages of Agatha Christie's 'Sleeping Murder', quite an interesting novel.  -->
 
+ <script src = "script.js"></script>
 </html>
