@@ -20,7 +20,7 @@ function decrement(){
 
 // below function saves the count
 function save(){
-    let countStr = count + " - "
+    let countStr = count + ", "
     saveNumber.textContent += countStr
 }
 console.log(count) // prints the saved count
