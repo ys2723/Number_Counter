@@ -4,4 +4,4 @@ This repository consists of codes which will help in incrementing a number from 
 Site Link: https://ys2723.github.io/Number_Counter/
 
 ## Site Sample
-![](https://i.postimg.cc/MZDNfrDY/Screenshot-16882.png)
+![Site_Sample_Image](https://i.postimg.cc/MZDNfrDY/Screenshot-16882.png)
