@@ -6,4 +6,4 @@ Site Link: https://ys2723.github.io/Number_Counter/
 ## Site Sample
 ![Site_Sample_Image](https://i.postimg.cc/MZDNfrDY/Screenshot-16882.png)
 
-## Can Increment
+## Can Increment, Decrement, 
