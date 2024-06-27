@@ -11,3 +11,4 @@ Site Link: https://ys2723.github.io/Number_Counter/
 
 ##
 # Project Information
+Team Size: 1 <br/>
