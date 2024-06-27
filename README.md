@@ -10,3 +10,4 @@ Site Link: https://ys2723.github.io/Number_Counter/
 ![Operation_sample](https://i.postimg.cc/PqW2sPVM/Screenshot-16883.png )
 
 ##
+# Project Information
