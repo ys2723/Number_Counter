@@ -7,3 +7,4 @@ Site Link: https://ys2723.github.io/Number_Counter/
 ![Site_Sample_Image](https://i.postimg.cc/MZDNfrDY/Screenshot-16882.png)
 
 ## Can Increment, Decrement, return to zero
+![Operation_sample](https://i.postimg.cc/PqW2sPVM/Screenshot-16883.png )
