@@ -13,3 +13,4 @@ Site Link: https://ys2723.github.io/Number_Counter/
 # Project Information
 Team Size: 1 <br/>
 Project Start Date: 10 June 2023 <br/>
+Project End Date: 10 June 2023 <br/>
